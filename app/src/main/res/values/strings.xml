@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myCustomListView</string>
+    <string name="hello">Hello</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="number">Number</string>
+    <string name="image">Image</string>
+</resources>
